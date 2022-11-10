@@ -1,0 +1,15 @@
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task001Degree\bin\Debug\net6.0\Task001Degree.exe
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task001Degree\bin\Debug\net6.0\Task001Degree.deps.json
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task001Degree\bin\Debug\net6.0\Task001Degree.runtimeconfig.json
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task001Degree\bin\Debug\net6.0\Task001Degree.dll
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task001Degree\bin\Debug\net6.0\Task001Degree.pdb
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task001Degree\obj\Debug\net6.0\Task001Degree.csproj.AssemblyReference.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task001Degree\obj\Debug\net6.0\Task001Degree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task001Degree\obj\Debug\net6.0\Task001Degree.AssemblyInfoInputs.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task001Degree\obj\Debug\net6.0\Task001Degree.AssemblyInfo.cs
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task001Degree\obj\Debug\net6.0\Task001Degree.csproj.CoreCompileInputs.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task001Degree\obj\Debug\net6.0\Task001Degree.dll
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task001Degree\obj\Debug\net6.0\refint\Task001Degree.dll
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task001Degree\obj\Debug\net6.0\Task001Degree.pdb
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task001Degree\obj\Debug\net6.0\Task001Degree.genruntimeconfig.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task001Degree\obj\Debug\net6.0\ref\Task001Degree.dll
