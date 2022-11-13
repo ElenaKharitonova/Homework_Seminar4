@@ -36,16 +36,19 @@ bool IsEven(int n)
 
 double DegreeRecursion(double x, int exp)
 {
-    if (IsEven(exp))
+    while (exp > 1)
     {
-        double result = DegreeRecursion(x, exp/2);
-        result = result * result;
-        return result;
-    }
-    else
-    {
-        double result = x * DegreeRecursion(x, exp-1);
-        return  result;
+        if (IsEven(exp))
+        {
+            double result = DegreeRecursion(x, exp / 2);
+            result = result * result;
+            return result;
+        }
+        else
+        {
+            double result = x * DegreeRecursion(x, exp - 1);
+            return result;
+        }
     }
 }
 
