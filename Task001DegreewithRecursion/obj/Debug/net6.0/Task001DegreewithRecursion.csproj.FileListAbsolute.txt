@@ -1,0 +1,15 @@
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task001DegreewithRecursion\bin\Debug\net6.0\Task001DegreewithRecursion.exe
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task001DegreewithRecursion\bin\Debug\net6.0\Task001DegreewithRecursion.deps.json
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task001DegreewithRecursion\bin\Debug\net6.0\Task001DegreewithRecursion.runtimeconfig.json
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task001DegreewithRecursion\bin\Debug\net6.0\Task001DegreewithRecursion.dll
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task001DegreewithRecursion\bin\Debug\net6.0\Task001DegreewithRecursion.pdb
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task001DegreewithRecursion\obj\Debug\net6.0\Task001DegreewithRecursion.csproj.AssemblyReference.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task001DegreewithRecursion\obj\Debug\net6.0\Task001DegreewithRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task001DegreewithRecursion\obj\Debug\net6.0\Task001DegreewithRecursion.AssemblyInfoInputs.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task001DegreewithRecursion\obj\Debug\net6.0\Task001DegreewithRecursion.AssemblyInfo.cs
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task001DegreewithRecursion\obj\Debug\net6.0\Task001DegreewithRecursion.csproj.CoreCompileInputs.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task001DegreewithRecursion\obj\Debug\net6.0\Task001DegreewithRecursion.dll
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task001DegreewithRecursion\obj\Debug\net6.0\refint\Task001DegreewithRecursion.dll
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task001DegreewithRecursion\obj\Debug\net6.0\Task001DegreewithRecursion.pdb
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task001DegreewithRecursion\obj\Debug\net6.0\Task001DegreewithRecursion.genruntimeconfig.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task001DegreewithRecursion\obj\Debug\net6.0\ref\Task001DegreewithRecursion.dll
