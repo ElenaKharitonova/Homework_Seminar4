@@ -1,0 +1,15 @@
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task003PrArray\bin\Debug\net6.0\Task003PrArray.exe
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task003PrArray\bin\Debug\net6.0\Task003PrArray.deps.json
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task003PrArray\bin\Debug\net6.0\Task003PrArray.runtimeconfig.json
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task003PrArray\bin\Debug\net6.0\Task003PrArray.dll
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task003PrArray\bin\Debug\net6.0\Task003PrArray.pdb
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task003PrArray\obj\Debug\net6.0\Task003PrArray.csproj.AssemblyReference.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task003PrArray\obj\Debug\net6.0\Task003PrArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task003PrArray\obj\Debug\net6.0\Task003PrArray.AssemblyInfoInputs.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task003PrArray\obj\Debug\net6.0\Task003PrArray.AssemblyInfo.cs
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task003PrArray\obj\Debug\net6.0\Task003PrArray.csproj.CoreCompileInputs.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task003PrArray\obj\Debug\net6.0\Task003PrArray.dll
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task003PrArray\obj\Debug\net6.0\refint\Task003PrArray.dll
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task003PrArray\obj\Debug\net6.0\Task003PrArray.pdb
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task003PrArray\obj\Debug\net6.0\Task003PrArray.genruntimeconfig.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar4\Task003PrArray\obj\Debug\net6.0\ref\Task003PrArray.dll
