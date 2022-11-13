@@ -1,13 +1,21 @@
 ﻿//Напишите цикл, который принимает на вход два числа (A и B) и возводит число A в натуральную степень B. 
 //Реализовать через функции.
 
-int Prompt(string message)
+double PromptDouble(string msg)
 {
-    System.Console.Write(message);
-    int number = Convert.ToInt32(Console.ReadLine());
+    System.Console.Write(msg);
+    double number = Convert.ToDouble(Console.ReadLine());
     return number;
 }
-bool ValidateNumber(int n)
+
+int PromptInt(string msg)
+{
+     System.Console.Write(msg);
+     int number = Convert.ToInt32(Console.ReadLine());
+     return number;
+}
+
+bool ValidateNumber(double n)
 {
     if (n <= 0)
     {
@@ -27,11 +35,11 @@ double Degree(double x,int n)
     }
 return result;
 }
-int x = Prompt("Введите число: ");
-int n = Prompt("Введите натуральную степень, в которую нужно возвести выше заданное число: ");
-if (ValidateNumber(n))
+double x = PromptDouble("Введите число: ");
+int exp = PromptInt("Введите натуральную степень, в которую нужно возвести выше заданное число: ");
+if (ValidateNumber(exp))
 {
-double pro = Degree(x,n);
+double pro = Degree(x,exp);
 
-Console.WriteLine($"Число {x} в степени {n} равно {pro}");
+Console.WriteLine($"Число {x} в степени {exp} равно {pro:F3}");
 }
